@@ -1,2 +1,2 @@
 Guessed number: 6
-Attempts: 2
+Attempts: 8
